@@ -12,6 +12,7 @@
 	3. Create new Notebook
 	4. Work with the notebook to make the model
 	5. Once the model is finalized, create a pickle file(see notebook for details) to save the model information.
+	(create new env for deployment as all packages used to create model are not required to run the app.. move the pickle file to new folder and create new env and front end there)
 	6. Create front end for the app and test the predictions
 	7. Create a requirements.txt file to save all dependencies (like imported libraries) from the virtual env
 		* navigate to the project folder
